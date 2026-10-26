@@ -6,6 +6,8 @@ body:
     attributes:
       value: |
         Thanks for taking the time. A short report with the version and the steps is worth more than a long one without them.
+
+        Already reported? A 👍 reaction on that issue tells us how many people it affects.
   - type: textarea
     id: what-happened
     attributes:

@@ -2,6 +2,10 @@ name: Feature request
 description: Something you wish Wymark did, or did differently.
 labels: ["enhancement"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Look for an existing request first. A 👍 reaction on it is a vote, and the votes help decide what comes next.
   - type: textarea
     id: problem
     attributes:
