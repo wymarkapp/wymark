@@ -1,0 +1,15 @@
+{
+  "name": "wymark",
+  "description": "Wymark, the markdown editor where you review what changed in a document",
+  "owner": {
+    "name": "Wymark",
+    "url": "https://wymark.app"
+  },
+  "plugins": [
+    {
+      "name": "wymark",
+      "source": "./plugins/wymark",
+      "description": "Lets Claude read a document's review in Wymark before it edits the file: what changed, where each change came from, and the comment threads"
+    }
+  ]
+}

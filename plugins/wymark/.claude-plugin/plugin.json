@@ -1,0 +1,8 @@
+{
+  "name": "wymark",
+  "displayName": "Wymark",
+  "version": "1.0.0",
+  "description": "Lets Claude read a document's review in Wymark before it edits the file: what changed, where each change came from, and the comment threads. Needs Wymark running, with the wymark command turned on and installed from its Settings.",
+  "author": { "name": "Wymark", "url": "https://wymark.app" },
+  "homepage": "https://wymark.app"
+}
