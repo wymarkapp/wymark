@@ -1,7 +1,7 @@
 {
   "mcpServers": {
     "wymark": {
-      "command": "wymark",
+      "command": "wymark.com",
       "args": ["mcp"]
     }
   }
