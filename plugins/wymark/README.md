@@ -2,6 +2,8 @@
 
 Wymark is a markdown editor where you review what changed in a document, accept or reject each change, and comment on it. This plugin lets Claude read that review before it edits a file: what changed since your last review, where each change came from, and the comment threads.
 
+This is the macOS plugin. On Windows, add **Wymark for Windows** from the same marketplace instead.
+
 ## Install it
 
 In the Claude desktop app (Cowork included): Customize > Plugins > Add > Add marketplace, enter `wymarkapp/wymark`, select Sync, then add Wymark.

@@ -9,7 +9,12 @@
     {
       "name": "wymark",
       "source": "./plugins/wymark",
-      "description": "Lets Claude read a document's review in Wymark before it edits the file: what changed, where each change came from, and the comment threads"
+      "description": "Lets Claude read a document's review in Wymark before it edits the file: what changed, where each change came from, and the comment threads (macOS)"
+    },
+    {
+      "name": "wymark-windows",
+      "source": "./plugins/wymark-windows",
+      "description": "Lets Claude read a document's review in Wymark before it edits the file: what changed, where each change came from, and the comment threads (Windows)"
     }
   ]
 }
